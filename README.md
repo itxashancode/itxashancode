@@ -73,9 +73,4 @@ Hi! I'm **Ashan Dev** from Pakistan 🇵🇰
   </a>
 </div>
 
----
-
-<p align="center">
-  Made with ❤️ by <strong>Ashan Dev</strong>
-</p>
 
