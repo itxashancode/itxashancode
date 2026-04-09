@@ -360,7 +360,7 @@ $ cat current_focus.txt
 <!-- ══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=60&text=%F0%9F%90%8D+Contribution+Activity&fontSize=30&fontColor=29ABE2&animation=fadeIn&fontAlign=50&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=60&text=%F0%9F%90%8D+Contribution+Activity&fontSize=30&fontColor=29ABE2&animation=fadeIn&fontAlign=50&fontAlignY=57" width="100%"/>
 </div>
 
 <div align="center">
