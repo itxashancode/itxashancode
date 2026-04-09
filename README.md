@@ -360,7 +360,7 @@ $ cat current_focus.txt
 <!-- ══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=60&text=%F0%9F%90%8D+Contribution+Activity&fontSize=30&fontColor=29ABE2&animation=fadeIn&fontAlign=50&fontAlignY=57" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=60&text=%F0%9F%90%8D+Contribution+Activity&fontSize=30&fontColor=29ABE2&animation=fadeIn&fontAlign=50&fontAlignY=58" width="100%"/>
 </div>
 
 <div align="center">
@@ -455,7 +455,7 @@ Idea ──▶ Break It Down ──▶ Google what I don't know
 
 <img align="left" alt="Coffee" width="220"
   src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f3bfa01b8370.gif"/>
-
+<br>
 - 🐛 My first bug fix took 4 hours. It was a missing semicolon.
 - 🌙 I do my best coding between 11 PM and 3 AM. The internet is quieter.
 - 🎮 Vote for HustlersMC started because I actually played on that server.
