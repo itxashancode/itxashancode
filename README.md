@@ -1,48 +1,47 @@
 <div align="center">
 
-<!-- ANIMATED HEADER BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Ashan%20Dev&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Pakistan%20%F0%9F%87%B5%F0%9F%87%B0&descAlignY=60&descSize=18" width="100%"/>
 
-<!-- ANIMATED TYPING TAGLINE -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=29ABE2&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Ashan+Dev+%F0%9F%91%8B;Full+Stack+Web+Developer;Building+Cool+Things+on+the+Web;React+%7C+Next.js+%7C+Node.js+%7C+Firebase;Always+Learning.+Always+Building." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=29ABE2&center=true&vCenter=true&width=600&lines=Hey!+I'm+Ashan+%F0%9F%91%8B;Full+Stack+Developer+from+Pakistan;React+%7C+Next.js+%7C+Node.js+%7C+Firebase;I+build+things+that+work.+And+look+good." alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- SOCIAL BADGES -->
 [![GitHub](https://img.shields.io/badge/GitHub-itxashancode-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itxashancode)
 [![Instagram](https://img.shields.io/badge/Instagram-itxashanvibes-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itxashanvibes/)
 [![Pinterest](https://img.shields.io/badge/Pinterest-ashancode-BD081C?style=for-the-badge&logo=pinterest&logoColor=white)](https://www.pinterest.com/ashanclicks/)
 [![Linktree](https://img.shields.io/badge/Linktree-itxashanvibes-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/itxashanvibes)
 
-<br/>
-
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Who I Am
 
 ```javascript
 const ashan = {
-  name:       "Ashan Dev",
-  location:   "Pakistan 🇵🇰",
-  role:       "Full Stack Developer",
-  education:  "APTECH — Diploma in Software Engineering",
-  currentFocus: [
-    "Building modern web applications",
-    "Exploring AI integrations & LLM APIs",
-    "Creating impactful open-source tools",
+  name:      "Ashan Abdur Rehman Zahid",
+  location:  "Pakistan 🇵🇰",
+  role:      "Full Stack Developer",
+  education: "APTECH — Diploma in Software Engineering",
+
+  building: [
+    "Web apps with React and Next.js",
+    "AI-powered tools using LLM APIs",
+    "Open-source projects I'd actually use myself",
   ],
-  passions:   ["Clean Code", "UI/UX", "Startup Ideas", "Tech Innovation"],
-  funFact:    "I debug with console.log and I'm not ashamed 😄",
+
+  cares_about: ["Clean code", "Good UI", "Shipping fast", "Learning by breaking things"],
+  honest_confession: "I debug with console.log. Works every time. No regrets.",
 };
 ```
 
+I'm a self-driven developer from Pakistan who learned by building real things — not just following tutorials. APTECH gave me the foundation, GitHub gave me the rest. I write clean, readable code and I ship. If you need someone who figures things out and doesn't wait to be told how — that's me.
+
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -61,7 +60,7 @@ const ashan = {
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### 🧰 Tools & Platforms
+### 🧰 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -72,17 +71,19 @@ const ashan = {
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
+
+These aren't tutorial clones. Each one started with a real problem and ended with something I actually deployed.
 
 <div align="center">
 
-| 🏗️ Project | 📝 Description | 🔧 Stack |
-|:---:|:---|:---:|
-| [**DocuFlow**](https://github.com/itxashancode/DocuFlow) | Interactive SDLC Documentation Generator — input project details, select tech stack, get structured docs instantly | `HTML` `CSS` `JS` |
-| [**Refresh My Web**](https://github.com/itxashancode/Refresh-My-Web) | High-end landing page for a website optimization service. Glassmorphism UI + GSAP animations | `HTML` `CSS` `GSAP` |
-| [**Vision2Code**](https://github.com/itxashancode/Vision2Code) | Personal finance tracker with interactive charts, budgets, income/expense tracking | `HTML` `Bootstrap` `ApexCharts` |
-| [**Vote for HustlersMC**](https://github.com/itxashancode/Vote-for-HustlersMC) | Modern glassmorphism voting portal for a Minecraft server. 10+ verified platforms, animated UI | `HTML` `CSS` `JS` |
-| [**QuickCalligraphy**](https://github.com/itxashancode/quickcalligraphy-learning) | Interactive calligraphy learning platform — history, styles, techniques, and categorized galleries | `HTML` `CSS` `JS` |
+| Project | What It Does | Stack |
+|:---|:---|:---:|
+| [**DocuFlow**](https://github.com/itxashancode/DocuFlow) | You put in your project details and tech stack — it spits out proper SDLC documentation, formatted and ready. Built because writing docs from scratch is painful. | `HTML` `CSS` `JS` |
+| [**Refresh My Web**](https://github.com/itxashancode/Refresh-My-Web) | Landing page for a web optimization service. Glassmorphism UI with GSAP scroll animations. Focused on making it feel premium without being slow. | `HTML` `CSS` `GSAP` |
+| [**Vision2Code**](https://github.com/itxashancode/Vision2Code) | Personal finance tracker with live charts, budget categories, and income/expense breakdowns. ApexCharts for the visuals, Bootstrap for layout speed. | `HTML` `Bootstrap` `ApexCharts` |
+| [**Vote for HustlersMC**](https://github.com/itxashancode/Vote-for-HustlersMC) | Voting portal for a Minecraft server with 10+ verified platforms linked. Glassmorphism design, animated buttons, clean interactions. | `HTML` `CSS` `JS` |
+| [**QuickCalligraphy**](https://github.com/itxashancode/quickcalligraphy-learning) | Learning platform for calligraphy — covers styles, history, technique guides, and a categorized gallery. Cleaner than anything I found when I searched for this myself. | `HTML` `CSS` `JS` |
 
 </div>
 
@@ -118,26 +119,24 @@ const ashan = {
 
 ---
 
-## 🌱 Currently Learning
-
-<div align="center">
+## 🌱 What I'm Learning Right Now
 
 ```
-🤖  AI Integration & LLM APIs (OpenAI, Anthropic)
-⚛️  Advanced React Patterns & Performance Optimization
-🔧  Backend APIs with Node.js & Express
-☁️  Cloud Deployment (Vercel, Firebase, AWS basics)
+🤖  Wiring LLM APIs (OpenAI, Anthropic) into real apps — not just demos
+⚛️  React performance patterns that actually matter at scale
+🔧  Building REST APIs with Node.js and Express
+☁️  Deploying on Vercel, Firebase, and getting into AWS basics
 ```
 
-</div>
+Not learning these from a list. I'm building things that force me to figure them out.
 
 ---
 
-## 📫 Let's Connect
+## 📫 Hire Me / Let's Talk
+
+I'm open to freelance work, full-time roles, and collaborations. If you have a project that needs a developer who ships clean code and cares about the result — reach out.
 
 <div align="center">
-
-I'm always open to collaborating on interesting projects, discussing ideas, or just saying hi!
 
 [![Instagram](https://img.shields.io/badge/Instagram-@itxashanvibes-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itxashanvibes/)
 [![Pinterest](https://img.shields.io/badge/Pinterest-@ashancode-BD081C?style=for-the-badge&logo=pinterest&logoColor=white)](https://www.pinterest.com/ashancode/)
@@ -150,14 +149,12 @@ I'm always open to collaborating on interesting projects, discussing ideas, or j
 
 <div align="center">
 
-<!-- PROFILE VIEWS COUNTER -->
 ![Profile Views](https://komarev.com/ghpvc/?username=itxashancode&color=29ABE2&style=for-the-badge&label=Profile+Views)
 
-<!-- FOOTER WAVE -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" width="100%"/>
 
 *"Code is like humor. When you have to explain it, it's bad." — Cory House*
 
-**⭐ Star some repos if you find them useful — it means a lot!**
+**If a repo helped you, a star goes a long way.**
 
 </div>
