@@ -84,6 +84,9 @@ These aren't tutorial clones. Each one started with a real problem and ended wit
 | [**Vision2Code**](https://github.com/itxashancode/Vision2Code) | Personal finance tracker with live charts, budget categories, and income/expense breakdowns. ApexCharts for the visuals, Bootstrap for layout speed. | `HTML` `Bootstrap` `ApexCharts` |
 | [**Vote for HustlersMC**](https://github.com/itxashancode/Vote-for-HustlersMC) | Voting portal for a Minecraft server with 10+ verified platforms linked. Glassmorphism design, animated buttons, clean interactions. | `HTML` `CSS` `JS` |
 | [**QuickCalligraphy**](https://github.com/itxashancode/quickcalligraphy-learning) | Learning platform for calligraphy — covers styles, history, technique guides, and a categorized gallery. Cleaner than anything I found when I searched for this myself. | `HTML` `CSS` `JS` |
+| [**Pull Shark Automation**](https://github.com/itxashancode/Pull-Shark-Automation) | Automates the GitHub Pull Shark achievement workflow. Handles branch creation, pull request opening, and merging — no manual clicks needed. | `Python` `GitHub API` |
+| [**Pair Extraordinaire Automation**](https://github.com/itxashancode/Pair-Extraordinaire-Automation) | Automates co-authored commits to earn the GitHub Pair Extraordinaire badge. Built to understand how GitHub tracks collaboration under the hood. | `Python` `GitHub API` |
+| [**Galaxy Brain Automation**](https://github.com/itxashancode/Galaxy-Brain-Automation) | Automates GitHub Discussions — posts questions and marks answers to trigger the Galaxy Brain achievement. Useful for studying the Discussions API. | `Python` `GitHub API` |
 
 </div>
 
@@ -93,13 +96,13 @@ These aren't tutorial clones. Each one started with a real problem and ended wit
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=itxashancode&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=29ABE2&icon_color=29ABE2&text_color=ffffff&rank_icon=github" height="165"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=itxashancode&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=29ABE2&icon_color=29ABE2&text_color=ffffff&rank_icon=github" height="165"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itxashancode&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=29ABE2&text_color=ffffff" height="165"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=itxashancode&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=29ABE2&text_color=ffffff" height="165"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=itxashancode&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&background=0d1117&ring=29ABE2&fire=FFA500&currStreakLabel=29ABE2" height="150"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=itxashancode&theme=dark&hide_border=true&background=0d1117&ring=29ABE2&fire=FFA500&currStreakLabel=29ABE2" height="150"/>
 
 </div>
 
