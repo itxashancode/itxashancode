@@ -4,10 +4,10 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=280&section=header&text=Ashan%20Dev&fontSize=100&fontColor=ffffff&animation=fadeIn&fontAlignY=38&fontAlign=50&desc=Full%20Stack%20Developer%20%7C%20Pakistan%20%F0%9F%87%B5%F0%9F%87%B0&descAlignY=58&descSize=24&descAlign=50&stroke=29ABE2&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Ashan%20Dev&fontSize=110&fontColor=ffffff&animation=fadeIn&fontAlignY=40&fontAlign=50&desc=Full%20Stack%20Developer%20%7C%20Pakistan%20%F0%9F%87%B5%F0%9F%87%B0&descAlignY=60&descSize=26&descAlign=50&stroke=29ABE2&strokeWidth=3" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=20&duration=3000&pause=800&color=29ABE2&center=true&vCenter=true&width=820&lines=Hey!+I'm+Ashan+%F0%9F%91%8B;Full+Stack+Developer+from+Pakistan+%F0%9F%87%B5%F0%9F%87%B0;React+%7C+Next.js+%7C+Node.js+%7C+Firebase;I+build+things+that+work.+And+look+good.;Open+to+Freelance+%26+Full-Time+Roles+%F0%9F%9A%80;Follow+for+real+projects%2C+not+tutorial+clones.+%E2%AD%90" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=700&color=29ABE2&center=true&vCenter=true&width=860&lines=Hey!+I'm+Ashan+%F0%9F%91%8B;Full+Stack+Developer+from+Pakistan+%F0%9F%87%B5%F0%9F%87%B0;React+%7C+Next.js+%7C+Node.js+%7C+Firebase;Building+AI-powered+apps+%F0%9F%A4%96;I+build+things+that+work.+And+look+good.;Open+to+Freelance+%26+Full-Time+Roles+%F0%9F%9A%80;console.log('Hello+World')+%E2%86%92+my+origin+story+%F0%9F%98%84" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
@@ -27,6 +27,30 @@
 ---
 
 <!-- ══════════════════════════════════════════════════════════════════════ -->
+<!--                  DEV STATUS PANEL                                     -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════╗
+║  ⚡  DEVELOPER STATUS  ·  ASHAN ABDUR REHMAN ZAHID       ║
+╠══════════════════════════════════════════════════════════╣
+║  🟢  Status       →  Available for hire                  ║
+║  🌍  Location     →  Pakistan 🇵🇰                         ║
+║  💼  Mode         →  Freelance + Full-time               ║
+║  🔭  Current      →  Building AI-powered web apps        ║
+║  🧠  Learning     →  LLM APIs · AWS · TypeScript         ║
+║  💬  Ask me about →  React, Next.js, Firebase, Python    ║
+║  ⚡  Fun fact     →  I debug with console.log. Always.   ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+<!-- ══════════════════════════════════════════════════════════════════════ -->
 <!--                    WHO I AM                                           -->
 <!-- ══════════════════════════════════════════════════════════════════════ -->
 
@@ -36,7 +60,7 @@
 
 <br/>
 
-<img align="right" alt="Developer at work" width="382"
+<img align="right" alt="Developer at work" width="380"
   src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ```javascript
@@ -46,27 +70,30 @@ const ashan = {
   role:      "Full Stack Developer",
   education: "APTECH — Diploma in Software Engineering",
 
-  building: [
-    "Web apps with React & Next.js",
-    "AI-powered tools using LLM APIs",
-    "Open-source projects I'd actually use",
+  currently_building: [
+    "🤖 AI-powered web tools using LLM APIs",
+    "⚛️  Full-stack apps with React & Next.js",
+    "🔓 Open-source projects I'd actually use",
   ],
 
-  cares_about: [
+  core_values: [
     "Clean code",        "Great UI/UX",
     "Shipping fast",     "Learning by breaking things",
   ],
 
-  open_to:    "Freelance · Full-time · Open-source Collabs",
-  confession: "I debug with console.log. Works every time.",
+  open_to:     "Freelance · Full-time · Open-source Collabs",
+  superpower:  "Figuring things out without being told how.",
+  confession:  "console.log() is my best debugging tool. 🤫",
 };
 ```
 
 <br/>
 
-> I'm a self-driven developer from Pakistan who learned by building real things — not just following tutorials. APTECH gave me the foundation, the internet gave me everything else. I write readable code and I ship. If you need someone who figures things out without being told how — that's me.
+> Self-driven developer from Pakistan. Learned by building real things — not just following tutorials.
+> APTECH gave me the foundation, the internet gave me everything else.
+> I write readable code, care about design, and I **ship**.
 
-**Hit ⭐ Follow** — I push real projects here, not homework.
+**Hit ⭐ Follow** — I push real projects here, not homework assignments.
 
 <br clear="right"/>
 
@@ -81,25 +108,18 @@ const ashan = {
 <!-- ══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=60&text=Full%20Tech%20Stack%20and%20Skills&fontSize=30&fontColor=29ABE2&animation=fadeIn&fontAlign=50&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=60&text=%F0%9F%9B%A0%EF%B8%8F+Full+Tech+Stack+%26+Skills&fontSize=30&fontColor=29ABE2&animation=fadeIn&fontAlign=50&fontAlignY=55" width="100%"/>
 </div>
 
 <br/>
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="55" title="HTML5"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="55" title="CSS3"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="55" title="JavaScript"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="55" title="TypeScript"/>
-<img src="https://user-images.githubusercontent.com/74038190/212280805-9bcadfa9-c4c2-4323-ac89-c6f539ca4b30.gif" width="55" title="React"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f3bfa01b8370.gif" width="55" title="Node.js"/>
-<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="55" title="MongoDB"/>
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="55" title="Firebase"/>
-<img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="55" title="Python"/>
-<img src="https://user-images.githubusercontent.com/74038190/212280823-79088406-ed8c-4d9c-b638-8b8a86c32bce.gif" width="55" title="Git"/>
-<img src="https://user-images.githubusercontent.com/74038190/212281956-a18ef62f-7e46-4bb9-8d21-5ceef2d6d08d.gif" width="55" title="Tailwind CSS"/>
-<img src="https://user-images.githubusercontent.com/74038190/212280952-063be5d8-6c31-4d2d-a7ac-9da66b53f8fb.gif" width="55" title="Docker"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,sass&theme=dark&perline=9" />
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,python,php,mysql,mongodb,postgresql&theme=dark&perline=9" />
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,figma,docker,linux,postman&theme=dark&perline=9" />
 
 </div>
 
@@ -183,7 +203,7 @@ UI/UX & Figma            █████████████████░�
 Node.js & Express        ███████████████░░░░░░░░░  65%
 Firebase & Databases     ██████████████░░░░░░░░░░  60%
 Python & Automation      █████████████░░░░░░░░░░░  57%
-AI / LLM Integration     ████████████░░░░░░░░░░░░  50%  ← growing fast
+AI / LLM Integration     ██████████████░░░░░░░░░░  60%  ← growing fast 🚀
 ```
 
 <br clear="right"/>
@@ -199,7 +219,7 @@ AI / LLM Integration     ████████████░░░░░░�
 <!-- ══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=60&text=%F0%9F%94%A5+Projects&fontSize=30&fontColor=29ABE2&animation=fadeIn&fontAlign=50&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=60&text=%F0%9F%94%A5+Featured+Projects&fontSize=30&fontColor=29ABE2&animation=fadeIn&fontAlign=50&fontAlignY=55" width="100%"/>
 </div>
 
 <div align="center">
@@ -208,19 +228,23 @@ AI / LLM Integration     ████████████░░░░░░�
 
 <br/>
 
-> Not tutorial clones. Every project started with a real problem or curiosity — and ended with something deployed.
+> 💡 Not tutorial clones. Every project started with a real problem or curiosity — and ended with something **deployed**.
 
 <br/>
 
-### 🔥 Web Apps
+### 🌐 Web Apps
 
-| Project | What It Does | Stack |
-|:---|:---|:---:|
-| [**DocuFlow**](https://github.com/itxashancode/DocuFlow) | Drop in project name + tech stack — get formatted SDLC docs back instantly. Built because writing docs from scratch is painful. | `HTML` `CSS` `JS` |
-| [**Refresh My Web**](https://github.com/itxashancode/Refresh-My-Web) | Landing page for a web optimization service. Glassmorphism UI + GSAP scroll animations. Premium feel, fast load. | `HTML` `CSS` `GSAP` |
-| [**Vision2Code**](https://github.com/itxashancode/Vision2Code) | Personal finance tracker with live ApexCharts, budget categories, income/expense breakdowns. | `HTML` `Bootstrap` `ApexCharts` |
-| [**Vote for HustlersMC**](https://github.com/itxashancode/Vote-for-HustlersMC) | Voting portal for a Minecraft community. 10+ verified platform links, glassmorphism cards. | `HTML` `CSS` `JS` |
-| [**QuickCalligraphy**](https://github.com/itxashancode/quickcalligraphy-learning) | Full learning platform — history, styles, technique walkthroughs, categorized gallery. | `HTML` `CSS` `JS` |
+<div align="center">
+
+| 🚀 Project | 💡 What It Does | 🛠 Stack | ⭐ |
+|:---|:---|:---:|:---:|
+| [**DocuFlow**](https://github.com/itxashancode/DocuFlow) | Drop in project name + tech stack → get formatted SDLC docs instantly. Built because writing docs from scratch is painful. | `HTML` `CSS` `JS` | ⭐ |
+| [**Refresh My Web**](https://github.com/itxashancode/Refresh-My-Web) | Landing page for a web optimization service. Glassmorphism UI + GSAP scroll animations. Premium feel, zero bloat. | `HTML` `CSS` `GSAP` | 🎨 |
+| [**Vision2Code**](https://github.com/itxashancode/Vision2Code) | Personal finance tracker with live ApexCharts, budget categories, income/expense breakdowns. | `HTML` `Bootstrap` `ApexCharts` | 📊 |
+| [**Vote for HustlersMC**](https://github.com/itxashancode/Vote-for-HustlersMC) | Voting portal for a Minecraft community. 10+ verified platform links, glassmorphism cards. | `HTML` `CSS` `JS` | 🎮 |
+| [**QuickCalligraphy**](https://github.com/itxashancode/quickcalligraphy-learning) | Full learning platform — history, styles, technique walkthroughs, categorized gallery. | `HTML` `CSS` `JS` | ✍️ |
+
+</div>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="460"/>
@@ -230,11 +254,15 @@ AI / LLM Integration     ████████████░░░░░░�
 
 ### 🤖 Automation & GitHub API
 
-| Project | What It Does | Stack |
-|:---|:---|:---:|
-| [**Pull Shark Automation**](https://github.com/itxashancode/Pull-Shark-Automation) | Full Pull Shark workflow — branch creation, PR open, auto-merge. Zero clicks. | `Python` `GitHub API` |
-| [**Pair Extraordinaire Automation**](https://github.com/itxashancode/Pair-Extraordinaire-Automation) | Automates co-authored commits. Built to understand how GitHub tracks collaboration internally. | `Python` `GitHub API` |
-| [**Galaxy Brain Automation**](https://github.com/itxashancode/Galaxy-Brain-Automation) | Automates GitHub Discussions — posts questions, marks answers, triggers Galaxy Brain. | `Python` `GitHub API` |
+<div align="center">
+
+| 🔧 Project | ⚙️ What It Does | 🛠 Stack | 🏆 |
+|:---|:---|:---:|:---:|
+| [**Pull Shark Automation**](https://github.com/itxashancode/Pull-Shark-Automation) | Full Pull Shark workflow — branch creation, PR open, auto-merge. Zero manual clicks. | `Python` `GitHub API` | 🦈 |
+| [**Pair Extraordinaire Automation**](https://github.com/itxashancode/Pair-Extraordinaire-Automation) | Automates co-authored commits. Built to understand how GitHub tracks collaboration internally. | `Python` `GitHub API` | 🤝 |
+| [**Galaxy Brain Automation**](https://github.com/itxashancode/Galaxy-Brain-Automation) | Automates GitHub Discussions — posts questions, marks answers, triggers Galaxy Brain. | `Python` `GitHub API` | 🧠 |
+
+</div>
 
 ---
 
@@ -263,6 +291,11 @@ AI / LLM Integration     ████████████░░░░░░�
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=itxashancode&theme=react-dark&bg_color=0d1117&color=29ABE2&line=29ABE2&point=FFA500&hide_border=true&area=true" width="95%"/>
+
+<br/><br/>
+
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=itxashancode&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=1" width="95%"/>
 
 </div>
 
@@ -293,6 +326,10 @@ AI / LLM Integration     ████████████░░░░░░�
       <b>Pair Extraordinaire</b><br/><sub>× 4</sub>
     </td>
     <td align="center">
+      <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="80" height="80"/><br/>
+      <b>Galaxy Brain</b><br/><sub>Achieved</sub>
+    </td>
+    <td align="center">
       <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" height="80"/><br/>
       <b>YOLO</b><br/><sub>Achieved</sub>
     </td>
@@ -311,6 +348,7 @@ AI / LLM Integration     ████████████░░░░░░�
 
 ![Pair Extraordinaire](https://img.shields.io/badge/Pair%20Extraordinaire-x4-blueviolet?style=for-the-badge&logo=github)
 ![Pull Shark](https://img.shields.io/badge/Pull%20Shark-x4-0969DA?style=for-the-badge&logo=github)
+![Galaxy Brain](https://img.shields.io/badge/Galaxy%20Brain-Achieved-9B59B6?style=for-the-badge&logo=github)
 ![YOLO](https://img.shields.io/badge/YOLO-Achieved-ff6b6b?style=for-the-badge&logo=github)
 ![Quickdraw](https://img.shields.io/badge/Quickdraw-Achieved-f39c12?style=for-the-badge&logo=github)
 ![Developer Program Member](https://img.shields.io/badge/Developer%20Program-Member-2ecc71?style=for-the-badge&logo=github)
@@ -345,11 +383,11 @@ $ cat current_focus.txt
 ☁️  Cloud deployment — Vercel, Firebase, getting into AWS
 🐍  Python scripting — automation bots, API wrappers, schedulers
 🎯  TypeScript — migrating JS projects over, one at a time
+🧪  Testing — Jest, React Testing Library (finally doing it right)
+
+$ echo "Not learning from a list. Building things that force me to figure these out."
+Not learning from a list. Building things that force me to figure these out.
 ```
-
-<br/>
-
-> Not learning from a list. Building things that force me to figure these out.
 
 <br clear="right"/>
 
@@ -394,19 +432,28 @@ $ cat current_focus.txt
 <br/>
 
 ```
-Idea ──▶ Break It Down ──▶ Google what I don't know
-              │
-              ▼
-         Build the ugly version first
-              │
-              ▼
-         Make it actually work
-              │
-              ▼
-         Make it look good
-              │
-              ▼
-         Ship it, then improve ──▶ repeat forever
+💡 Idea
+   │
+   ▼
+🔍 Break it down into tiny solvable pieces
+   │
+   ▼
+🌐 Google / docs / ask Claude what I don't know
+   │
+   ▼
+🔨 Build the ugly version first — just make it work
+   │
+   ▼
+✅ Make it actually work end-to-end
+   │
+   ▼
+🎨 Polish the UI until it looks intentional
+   │
+   ▼
+🚀 Ship it — then improve based on real usage
+   │
+   ▼
+🔁 Repeat forever. Never stop shipping.
 ```
 
 ---
@@ -432,6 +479,11 @@ Idea ──▶ Break It Down ──▶ Google what I don't know
 | 🤖 **AI Integration** | Wire OpenAI or Anthropic APIs into your product. |
 | 🐍 **Python Automation** | GitHub bots, workflow scripts, API scrapers. |
 | 🎨 **UI/UX Redesign** | Take an existing site and make it not embarrassing. |
+| 📱 **Responsive Rebuild** | Make your old site look great on every device. |
+
+<br/>
+
+> 💬 **Let's talk:** Reach out on [Instagram](https://www.instagram.com/itxashanvibes/) or via [Linktree](https://linktr.ee/itxashanvibes)
 
 <br clear="right"/>
 
@@ -442,7 +494,7 @@ Idea ──▶ Break It Down ──▶ Google what I don't know
 <!-- ══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=60&text=%F0%9F%8E%B2+Random+Dev+Facts&fontSize=30&fontColor=29ABE2&animation=fadeIn&fontAlign=50&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=60&text=%F0%9F%8E%B2+Random+Dev+Facts+About+Me&fontSize=30&fontColor=29ABE2&animation=fadeIn&fontAlign=50&fontAlignY=55" width="100%"/>
 </div>
 
 <br/>
@@ -453,16 +505,20 @@ Idea ──▶ Break It Down ──▶ Google what I don't know
 
 <br/>
 
-<img align="left" alt="Coffee" width="220"
+<img align="left" alt="Code GIF" width="220"
   src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f3bfa01b8370.gif"/>
-<br>
-- 🐛 My first bug fix took 4 hours. It was a missing semicolon.
-- 🌙 I do my best coding between 11 PM and 3 AM. The internet is quieter.
-- 🎮 Vote for HustlersMC started because I actually played on that server.
-- 📖 I read other people's READMEs like some people read books.
+
+<br/>
+
+- 🐛 My first bug fix took **4 hours**. It was a missing semicolon.
+- 🌙 I do my best coding between **11 PM and 3 AM**. The internet is quieter.
+- 🎮 **Vote for HustlersMC** started because I actually played on that server.
+- 📖 I read other people's READMEs like some people read **books**.
 - 🤝 Every automation project started with: *"I wonder if GitHub lets you automate this."*
-- ☕ I don't drink coffee. I run on curiosity and Stack Overflow.
-- 🔁 I've rewritten the same component from scratch at least 3 times to get it right.
+- ☕ I don't drink coffee. I run on **curiosity and Stack Overflow**.
+- 🔁 I've rewritten the same component from scratch **at least 3 times** to get it right.
+- 🧩 I treat every side project like it's going into production. **Standards matter.**
+- 🌍 Built for the global web, shipped from **Pakistan 🇵🇰**
 
 <br/><br/><br/><br/>
 
@@ -483,6 +539,10 @@ Idea ──▶ Break It Down ──▶ Google what I don't know
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=60&text=%F0%9F%92%BC+Hire+Me+%2F+Let%27s+Build+Something&fontSize=30&fontColor=29ABE2&animation=fadeIn&fontAlign=50&fontAlignY=55" width="100%"/>
 
 <br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="300"/>
+
+<br/><br/>
 
 I'm open to **freelance work**, **full-time roles**, and **open-source collabs**.<br/>
 If you have a project that needs a developer who ships clean code and cares about the result — reach out.
@@ -517,6 +577,6 @@ If you have a project that needs a developer who ships clean code and cares abou
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=160&section=footer&text=Keep%20Building.%20Keep%20Shipping.&fontSize=28&fontColor=ffffff&fontAlign=50&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=footer&text=Keep%20Building.%20Keep%20Shipping.&fontSize=32&fontColor=ffffff&fontAlign=50&fontAlignY=70&animation=fadeIn&desc=Made%20with%20%E2%9D%A4%EF%B8%8F%20from%20Pakistan%20%F0%9F%87%B5%F0%9F%87%B0&descAlignY=85&descSize=16&descAlign=50" width="100%"/>
 
 </div>
