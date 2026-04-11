@@ -108,7 +108,7 @@ const ashan = {
 <!-- ══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=60&text=%F0%9F%9B%A0%EF%B8%8F+Full+Tech+Stack+%26+Skills&fontSize=30&fontColor=29ABE2&animation=fadeIn&fontAlign=50&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=60&text=%F0%9F%9B%A0%EF%B8%8F+Full+Tech+Stack+and+Skills&fontSize=30&fontColor=29ABE2&animation=fadeIn&fontAlign=50&fontAlignY=55" width="100%"/>
 </div>
 
 <br/>
