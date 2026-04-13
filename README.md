@@ -327,7 +327,7 @@ AI / LLM Integration     ██████████████░░░░�
     </td>
     <td align="center">
       <img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="80" height="80"/><br/>
-      <b>Galaxy Brain</b><br/><sub>Achieved</sub>
+      <b>Galaxy Brain</b><br/><sub>× 2</sub>
     </td>
     <td align="center">
       <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" height="80"/><br/>
