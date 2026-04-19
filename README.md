@@ -488,48 +488,6 @@ Not learning from a list. Building things that force me to figure these out.
 <br clear="right"/>
 
 ---
-
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-<!--                  FUN FACTS                                            -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=60&text=%F0%9F%8E%B2+Random+Dev+Facts+About+Me&fontSize=30&fontColor=29ABE2&animation=fadeIn&fontAlign=50&fontAlignY=55" width="100%"/>
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-a324-4f89-ba8a-d0f523ca9b38.gif" width="360"/>
-</div>
-
-<br/>
-
-<img align="left" alt="Code GIF" width="220"
-  src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f3bfa01b8370.gif"/>
-
-<br/>
-
-- 🐛 My first bug fix took **4 hours**. It was a missing semicolon.
-- 🌙 I do my best coding between **11 PM and 3 AM**. The internet is quieter.
-- 🎮 **Vote for HustlersMC** started because I actually played on that server.
-- 📖 I read other people's READMEs like some people read **books**.
-- 🤝 Every automation project started with: *"I wonder if GitHub lets you automate this."*
-- ☕ I don't drink coffee. I run on **curiosity and Stack Overflow**.
-- 🔁 I've rewritten the same component from scratch **at least 3 times** to get it right.
-- 🧩 I treat every side project like it's going into production. **Standards matter.**
-- 🌍 Built for the global web, shipped from **Pakistan 🇵🇰**
-
-<br/><br/><br/><br/>
-
-<br clear="left"/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%"/>
-</div>
-
----
-
 <!-- ══════════════════════════════════════════════════════════════════════ -->
 <!--              HIRE ME / LET'S BUILD SOMETHING                          -->
 <!-- ══════════════════════════════════════════════════════════════════════ -->
