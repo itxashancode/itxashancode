@@ -574,9 +574,4 @@ If you have a project that needs a developer who ships clean code and cares abou
 <br/>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="70%"/>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=footer&text=Keep%20Building.%20Keep%20Shipping.&fontSize=32&fontColor=ffffff&fontAlign=50&fontAlignY=70&animation=fadeIn&desc=Made%20with%20%E2%9D%A4%EF%B8%8F%20from%20Pakistan%20%F0%9F%87%B5%F0%9F%87%B0&descAlignY=85&descSize=16&descAlign=50" width="100%"/>
-
 </div>
