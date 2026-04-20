@@ -223,27 +223,7 @@ AI / LLM Integration     ██████████████░░░░�
 </div>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/238353467-4e9949f6-e07e-4321-aab1-b658a96b7853.gif" width="460"/>
-</div>
-
-<br/>
-
-> 💡 Not tutorial clones. Every project started with a real problem or curiosity — and ended with something **deployed**.
-
-<br/>
-
-### 🌐 Web Apps
-
-<div align="center">
-
-| 🚀 Project | 💡 What It Does | 🛠 Stack | ⭐ |
-|:---|:---|:---:|:---:|
-| [**DocuFlow**](https://github.com/itxashancode/DocuFlow) | Drop in project name + tech stack → get formatted SDLC docs instantly. Built because writing docs from scratch is painful. | `HTML` `CSS` `JS` | ⭐ |
-| [**Refresh My Web**](https://github.com/itxashancode/Refresh-My-Web) | Landing page for a web optimization service. Glassmorphism UI + GSAP scroll animations. Premium feel, zero bloat. | `HTML` `CSS` `GSAP` | 🎨 |
-| [**Vision2Code**](https://github.com/itxashancode/Vision2Code) | Personal finance tracker with live ApexCharts, budget categories, income/expense breakdowns. | `HTML` `Bootstrap` `ApexCharts` | 📊 |
-| [**Vote for HustlersMC**](https://github.com/itxashancode/Vote-for-HustlersMC) | Voting portal for a Minecraft community. 10+ verified platform links, glassmorphism cards. | `HTML` `CSS` `JS` | 🎮 |
-| [**QuickCalligraphy**](https://github.com/itxashancode/quickcalligraphy-learning) | Full learning platform — history, styles, technique walkthroughs, categorized gallery. | `HTML` `CSS` `JS` | ✍️ |
-
+<img src="https://user-images.githubusercontent.com/74038190/238353467-4e9949f6-e07e-4321-aab1-b658a96b7853.gif" width="445"/>
 </div>
 
 <div align="center">
@@ -263,6 +243,12 @@ AI / LLM Integration     ██████████████░░░░�
 | [**Galaxy Brain Automation**](https://github.com/itxashancode/Galaxy-Brain-Automation) | Automates GitHub Discussions — posts questions, marks answers, triggers Galaxy Brain. | `Python` `GitHub API` | 🧠 |
 
 </div>
+
+<br/>
+
+> 💡 Not tutorial clones. Every project started with a real problem or curiosity — and ended with something **deployed**.
+
+<br/>
 
 ---
 
