@@ -34,7 +34,7 @@
 
 ```
 ╔══════════════════════════════════════════════════════════╗
-║  ⚡  DEVELOPER STATUS  ·  ASHAN ABDUR REHMAN ZAHID       ║
+║  ⚡  DEVELOPER STATUS  ·          ASHAN                  ║
 ╠══════════════════════════════════════════════════════════╣
 ║  🟢  Status       →  Available for hire                  ║
 ║  🌍  Location     →  Pakistan 🇵🇰                         ║
